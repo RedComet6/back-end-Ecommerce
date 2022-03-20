@@ -35,13 +35,13 @@ If you wish to contribute to my content, please contact me at asunshine99@gmail.
 
 ## Screenshot
 
-![](./img/screenshot-employee-tracker-aidan-chamberlain.png)
+![](./img/aidan-chamberlain-backend-ecommerce.png)
 
 ## Links to Application
 
--   Here is the demo recording: [https://drive.google.com/file/d/1Jtk7xf51-DPdPhR_VmKMc5q-KDxnts_M/view?usp=sharing](https://drive.google.com/file/d/1Jtk7xf51-DPdPhR_VmKMc5q-KDxnts_M/view?usp=sharing)
--   Here is the repo: [https://github.com/RedComet6/employee-tracker](https://github.com/RedComet6/employee-tracker)
--   Here is the pages: [https://redcomet6.github.io/employee-tracker/](https://redcomet6.github.io/employee-tracker/)
+-   Here is the demo recording: [https://drive.google.com/file/d/1xh6pfz7Ra1NyIcB259eL292xy7u0GJ5D/view?usp=sharing](https://drive.google.com/file/d/1xh6pfz7Ra1NyIcB259eL292xy7u0GJ5D/view?usp=sharing)
+-   Here is the repo: [https://github.com/RedComet6/back-end-Ecommerce](https://github.com/RedComet6/back-end-Ecommerce)
+-   Here is the pages: [https://redcomet6.github.io/back-end-Ecommerce/](https://redcomet6.github.io/back-end-Ecommerce/)
 
 ## Questions
 
